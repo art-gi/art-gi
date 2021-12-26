@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and web development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 e-mail: artgi@mail.bg
 
 <!---
 art-gi/art-gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
